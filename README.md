@@ -4,6 +4,8 @@ I've developed this project for the https://demo.1crmcloud.com/ site.
 
 Below I've noted some difficulties/challenges in doing so, as well as potential improvements given more time.
 
+P.S. I've included a copy of the HTML report I generated using SpecFlow Living Doc for you to review at your leisure.
+
 ## Difficulties/Challenges
 
 I don't use C#/Selenium/SpecFlow day-to-day, so I found most of the difficulty being in the setup of the framework, and remembering how to best go about implementing certain things. 
